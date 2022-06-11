@@ -1,0 +1,26 @@
+
+#      === Statistics & Probability ===
+#             *** DEFINITIONS ***
+#      ---------------------------------
+
+
+
+Binomial Random Variable:
+    props:
+            - Outcome = Success OR Failure
+            - Independent Trials
+            - Same prob. for each trial
+            - Fixed n trials
+            
+     example:   Roll 12-sided die 20 times. VAR = Number of 6s rolled
+     
+     
+     
+Geometric Random Variable:
+    props:
+            - Outcome = Success OR Failure
+            - Independent Trials
+            - Same prob. for each trial
+            - Variable n trials
+            
+     classic form :   How many trials until event X occurs?
